@@ -6,6 +6,7 @@ import { HomePage } from './components/HomePage';
 import { Exchanges } from './components/Exchanges';
 import { Cryptocurrencies } from './components/Cryptocurrencies';
 import { News } from './components/News';
+import { CryptoDetails } from './components/CryptoDetails';
 
 function App() {
   return (
@@ -26,9 +27,9 @@ function App() {
               <Route exact path="/cryptocurrencies">
                 <Cryptocurrencies />
               </Route>
-              {/* <Route exact path="/crypto/:coinId">
+              <Route exact path="/crypto/:coinId">
                 <CryptoDetails />
-              </Route> */}
+              </Route>
               <Route exact path="/news">
                 <News />
               </Route>
