@@ -47,7 +47,7 @@ export const HomePage = () => {
                     <Link to="/news">Show more</Link>
                 </Typography.Title>
             </div>
-            <News/>
+            <News simplified/>
         </div>
     )
 }
