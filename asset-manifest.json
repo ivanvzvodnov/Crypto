@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Crypto/static/css/main.da74ee7f.chunk.css",
+    "main.js": "/Crypto/static/js/main.c9a058c3.chunk.js",
+    "main.js.map": "/Crypto/static/js/main.c9a058c3.chunk.js.map",
+    "runtime-main.js": "/Crypto/static/js/runtime-main.8efde812.js",
+    "runtime-main.js.map": "/Crypto/static/js/runtime-main.8efde812.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/Crypto/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.437751fc.chunk.js": "/Crypto/static/js/2.437751fc.chunk.js",
+    "static/js/2.437751fc.chunk.js.map": "/Crypto/static/js/2.437751fc.chunk.js.map",
+    "index.html": "/Crypto/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/Crypto/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.da74ee7f.chunk.css.map": "/Crypto/static/css/main.da74ee7f.chunk.css.map",
+    "static/js/2.437751fc.chunk.js.LICENSE.txt": "/Crypto/static/js/2.437751fc.chunk.js.LICENSE.txt",
+    "static/media/bitcoin.1548aced.png": "/Crypto/static/media/bitcoin.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8efde812.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.437751fc.chunk.js",
+    "static/css/main.da74ee7f.chunk.css",
+    "static/js/main.c9a058c3.chunk.js"
+  ]
+}
